@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Common-Councell holden the first day of May 1660 ordered by this court that the Kings Majesties letter and declaration directed to this court, &amp; now read, be forthwith printed &amp; published, [countersigned] Sadler.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48985</idno>
+            <idno type="STC">Wing L2852Q</idno>
+            <idno type="STC">ESTC R39341</idno>
+            <idno type="EEBO-CITATION">18368324</idno>
+            <idno type="OCLC">ocm 18368324</idno>
+            <idno type="VID">107414</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107414)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Common-Councell holden the first day of May 1660 ordered by this court that the Kings Majesties letter and declaration directed to this court, &amp; now read, be forthwith printed &amp; published, [countersigned] Sadler.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Aleyn Mayor.</note>
+                  <note>Contains 2 letters from Charles II concerning his magnanimity     towards the nation and his lack of vindictiveness regarding recovery of lost property.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107414:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <figure>
+               <figDesc>blazon of the City of London</figDesc>
+            </figure>
+            <p>
+               <hi>A</hi> Common-Councell HOLDEN The firſt day of <hi>May</hi> 1660.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by this Court that the <hi>Kings Majeſties</hi> Letter and De<g ref="char:EOLhyphen"/>claration directed to this Court, &amp; now read, be forthwith printed &amp; publiſhed.</p>
+                        <closer>
+                           <signed>Sadler.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed by <hi>James Fleſher,</hi> Printer to the Honou<g ref="char:EOLhyphen"/>rable City of <hi>London,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:107414:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <pb n="3" facs="tcp:107414:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <opener>
+               <signed>CHARLES R.</signed>
+               <lb/>
+               <salute>TRuſty and Wel-beloved We greet you well.</salute>
+            </opener>
+            <p>In theſe great Revolutions which of late have hap<g ref="char:EOLhyphen"/>pened in that Our Kingdome to the wonder and amazement of all the world, there is none that VVe have looked upon with more Comfort, then the ſo frequent and publick manifeſtations of their affections to <g ref="char:V">Ʋ</g>s in the City of <hi>London,</hi> which hath exceedingly raiſed Our Spirits, and which, no doubt, hath proceeded from the Spirit of God and his extraordinary mercy to the Nation, which hath been encouraged by you, and your good example to aſſert that Government under which it hath ſo many hundred years enjoy<g ref="char:EOLhyphen"/>ed
+<pb n="4" facs="tcp:107414:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 69 -->as great felicity as any Nation in <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> and to diſcountenance the imagina<g ref="char:EOLhyphen"/>tions of thoſe, who would ſubject Our Sub<g ref="char:EOLhyphen"/>jects to a Government they have not yet de<g ref="char:EOLhyphen"/>viſed; and to ſatisfie the pride and ambition of a few ill men, would introduce the moſt ar<g ref="char:EOLhyphen"/>bitrary and Tyrannical Power that was ever yet heard of, how long we have all ſuf<g ref="char:EOLhyphen"/>fered under thoſe and the like devices, all the world takes notice, to the no ſmall re<g ref="char:EOLhyphen"/>proach of the Engliſh Nation, which we hope is now providing for its own ſecurity and re<g ref="char:EOLhyphen"/>demption, and will be no longer bewitched by thoſe Inventions: how deſirous we are to contribute to the obtaining the peace and happineſs of Our Subjects, without further effuſion of bloud; and how farre we are from deſiring to recover what belongs to <g ref="char:V">Ʋ</g>s by a VVarre, if it can be otherwiſe done,
+<pb n="5" facs="tcp:107414:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 69 -->will appear to you by the encloſed Declara<g ref="char:EOLhyphen"/>tion, which together with this Our Letter. VVe have entruſted Our right truſty and welbeloved Cozen the Lord Viſcount <hi>Mor<g ref="char:EOLhyphen"/>dant,</hi> and our truſty and welbeloved Ser<g ref="char:EOLhyphen"/>vant Sir <hi>John Greenvile</hi> Knight, one of the Gentlemen of Our Bed-chamber to deliver to you, to the end that you and all the reſt of Our good Subjects of that Our City of <hi>London</hi> (to whom VVe deſire it ſhould be publiſhed) may know how farre VVe are from the deſire of Revenge, or that the peace, happineſs, and ſecurity of the Kingdome ſhould be raiſed upon any other foundation then the affection and hearts of Our Subjects, and their own conſents: VVe have not the leaſt doubt of your juſt ſenſe of thoſe Our condeſcentions, or of your zeal to advance and promote the ſame good end, by
+<pb n="6" facs="tcp:107414:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 70 -->diſpoſing all men to meet <g ref="char:V">Ʋ</g>s with the ſame affection and tenderneſs, in reſtoring the fun<g ref="char:EOLhyphen"/>damental Laws to that Reverence that is due to them, and upon the preſervation whereof all our happineſs depends: And you will have no reaſon to doubt of enjoying your full ſhare in that happineſs, and of the improving it by Our particular affection to you. It is very natural for all men to doe all the good they can for their native Coun<g ref="char:EOLhyphen"/>trey, and to advance the honour of it. And as we have that full affection for the King<g ref="char:EOLhyphen"/>dome in general, ſo we would not be thought to be without ſome extraordinary kindneſs for Our native City in particular, which We ſhall manifeſt on all occaſions, not only by renewing their Charter, and confirming all thoſe priviledges which they have recei<g ref="char:EOLhyphen"/>ved from Our Predeceſſors, but by adding
+<pb n="7" facs="tcp:107414:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 70 -->and granting any new favours which may advance the Trade, VVealth, and Honour of that Our native City, for which VVe will be ſo ſolicitous, that We doubt not but that it will in due time receive ſome Benefit and Advantage in all thoſe reſpects, even from Our own obſervation &amp; experience abroad: and We are moſt confident VVe ſhall never be diſappointed in Our expectation of all poſsible ſervice from your affections. And ſo VVe bid you farewell.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Breda</hi> 
+                  <date>the <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap> day of April, 1660. in the Twelfth year of Our Reign.</date>
+               </dateline>
+            </closer>
+            <trailer>To Our Truſty and Wel-beloved the Lord Mayor, Aldermen, and Com<g ref="char:EOLhyphen"/>mon Council of Our City of <hi>London.</hi>
+            </trailer>
+         </div>
+         <div type="document">
+            <pb facs="tcp:107414:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <pb n="9" facs="tcp:107414:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <opener>
+               <signed>CHARLES R.</signed>
+               <lb/>
+               <signed>CHARLES by the Grace of God King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+               </signed>
+               <salute>To all Our loving Subjects of what degree or quality ſo<g ref="char:EOLhyphen"/>ever, greeting:</salute>
+            </opener>
+            <p>If the general diſtraction and confuſion which is ſpread over the whole King<g ref="char:EOLhyphen"/>dome, doth not awaken all men to a deſire and longing that theſe wounds which have ſo ma<g ref="char:EOLhyphen"/>ny years together been kept bleeding, may be bound up; all We can ſay will be to no pur<g ref="char:EOLhyphen"/>poſe: However after this long ſilence We have thought it Our duty to declare how much We deſire to contribute thereunto. And that as We can never give over the hope, in good time to obtain the poſſeſſion of that Right, which God &amp; Nature hath made Our due, ſo We doe make it Our daily ſuit to the Divine Providence, that He will in compaſſion to Us and Our ſubjects, after ſo long miſery and ſufferings, remit and put Us into a quiet and peaceable poſſeſſion of that Our Right, with as little blood and damage to Our people as is poſſible; Nor doe We deſire
+<pb n="10" facs="tcp:107414:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 72 -->more to enjoy what is Ours, then that all Our ſubjects may enjoy what by Law is theirs, by a full and intire Adminiſtration of Juſtice throughout the Land; And by extending Our Mercy where it is wanted and deſerved. And to the end that the fear of puniſhment may not engage any Conſcious to themſelves of what is paſt to a perſeverance in guilt for the future, by oppoſing the quiet and happineſs of their Coun<g ref="char:EOLhyphen"/>try, in the Reſtoration both of King, Peers and People, to their juſt, ancient, and fundamental Rights; We doe by theſe preſents declare:</p>
+            <p>That We doe grant a free and general Par<g ref="char:EOLhyphen"/>don, which We are ready upon demand to paſs under Our Great Seal of <hi>England,</hi> to all Our ſub<g ref="char:EOLhyphen"/>jects of what degree or quality ſoever, Who within Forty daies after the publiſhing hereof, ſhall lay hold upon this our Grace and Favour, and ſhal by any publick Act declare their doing ſo: And that they return to the Loyalty and Obedience of good Subjects, Excepting only ſuch perſons as ſhall hereafter be excepted by Parliament; Thoſe only excepted, let all Our Subjects, how faulty ſoever, relie upon the word of a King ſolemnly given by this preſent
+<pb n="11" facs="tcp:107414:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 72 -->Declaration, That no Crime whatſoever com<g ref="char:EOLhyphen"/>mitted againſt Us or Our Royall Father, before the Publication of this, ſhall ever riſe in Judg<g ref="char:EOLhyphen"/>ment, or be brought in queſtion againſt any of them, to the leaſt endamagement of them, either in their Lives, Liberties, or Eſtates, or (as far forth as lies in Our power) ſo much as to the prejudice of their Reputations by any Reproach or term of diſtinction from the reſt of Our beſt Subjects: We deſiring and ordeyning that henceforward all Notes of diſcord, ſeparation and difference of parties be utterly aboliſhed among all Our Subjects, whom We Invite and Conjure to a perfect Union among themſelves under Our Protection, for the Reſettlement of Our juſt Rights and theirs in a Free Parlia<g ref="char:EOLhyphen"/>ment, by which upon the word of a King, We will be adviſed.</p>
+            <p>And becauſe the paſſion and uncharitablneſs of the times have produced ſeveral opinions in Religion, by which men are ingaged in Parties and Animoſities againſt each other, which when they ſhall hereafter unite in a Freedome of Converſation will be compoſed or better un<g ref="char:EOLhyphen"/>derſtood: We doe declare a liberty to tender
+<pb n="12" facs="tcp:107414:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 73 -->Conſciences, and that no man ſhall be diſquie<g ref="char:EOLunhyphen"/>ted, or called in queſtion for differences of Opinion in matters of Religion, which doe not diſturbe the peace of the Kingdome: And that We ſhall be ready to conſent to ſuch an Act of Parliament, as upon mature deliberation ſhall be offered to Us, for the full granting that in<g ref="char:EOLhyphen"/>dulgence.</p>
+            <p>And becauſe in the Continued diſtractions of ſo many years, and ſo many and great Revo<g ref="char:EOLhyphen"/>lutions, many Grants and Purchaſes of Eſtates have been made to, and by many Officers, Souldiers and others, who are now poſſeſſed of the ſame, and who may be lyable to Actions at Law upon ſeveral titles, We are likewiſe willing that all ſuch differences and all things relating to ſuch Grants, Sales and Purchaſes ſhall be determined in Parliament which can beſt provide for the juſt ſatisfaction of all men who are Concerned.</p>
+            <p>And We doe further declare that We will be ready to conſent to any Act or Acts of Parlia<g ref="char:EOLhyphen"/>ment to the purpoſes aforeſaid: And for the full ſatisfaction of all Arears due to the Offi<g ref="char:EOLhyphen"/>cers and Souldiers of the Army under the
+<pb n="13" facs="tcp:107414:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 73 -->Command of General <hi>Monck.</hi> And that they ſhall be received into Our ſervice upon as good pay and conditions as they now enjoy.</p>
+            <closer>
+               <dateline>Given under our ſign manuel and Privie ſignet at our Court at <hi>Breda</hi> 
+                  <date>this 4/14 day of <hi>April</hi> 1660. in the Twelfth year of our Reign.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="document">
+            <pb facs="tcp:107414:8" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <pb n="14" facs="tcp:107414:8"/>
+            <!-- PDF PAGE 74 -->
+            <head>Aleyn <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure> Mayor.</head>
+            <head type="sub">A Common Councell holden the Firſt of <hi>May</hi> 1660.</head>
+            <p>ORdered by this Court, that the right Honorable the Lord Mayor doe acquaint the Lord Viſ<g ref="char:EOLhyphen"/>count <hi>Mordant</hi> and Sir <hi>John Greenvile</hi> (who brought the ſaid Letter and Declaration) That this Court doe return moſt humble and hearty thanks to his Majeſty for his gracious Condeſcentions to, and owning this Court and City expreſſed in his Majeſties ſaid Letter and Declaration: And doe likewiſe return hearty thanks to the ſaid Honorable Perſons that brought the ſaid Gracious Meſſage: And doe declare this Courts ready ſubmiſſion to his Majeſties Govern<g ref="char:EOLhyphen"/>ment: And that in Teſtimony thereof they had now taken down the Common-wealths Armes, and Orde<g ref="char:EOLhyphen"/>red his Majeſties Arms to be ſet up. And further that this Court doe beg the favour of the Lord <hi>Mordant</hi> to return with an Anſwer in writing to his Majeſty from this Court. And alſo that this Court doe intend very ſpeedily to ſend Members of their own to wait on his Majeſty.</p>
+            <closer>
+               <signed>Sadler.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
